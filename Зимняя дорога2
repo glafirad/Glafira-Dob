@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Р—РёРјРЅСЏСЏ РґРѕСЂРѕРіР° (2 Р»РёСЃС‚)</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>РСЃС‚РѕС‡РЅРёРє</edition>
+        <respStmt>
+          <resp>Editor</resp>
+          <name>Р’С‹С€РєРё РЎС‚СѓРґРµРЅС‚</name>
+        </respStmt>
+      </editionStmt>
+    </fileDesc>
+  </teiHeader>
+  <sourceDoc>
+    <surfaceGrp>
+      <surface n="РќРѕРІС‹Р№ СЃР»РѕР№">
+        <graphic url="http://textograf.ru/api/Manuscripts/b75b4b4f-d782-4310-a5a4-592cde86b61d/8b3ec0d5-8880-4992-a24f-6b17f81101a6.jpg" width="1305px" height="1920px" />
+        <zone ulx="304.47738647460937" uly="492.58029174804687" lrx="304.47738647460937" lry="85.800628662109375">
+          <line>Р—РІСѓС‡РЅРѕ СЃС‚СЂСЈР»РєР° С‡Р°СЃРѕРІР°СЏ </line>
+          <line>РњСЈСЂРЅС‹Р№ РєСЂСѓРіСЉ СЃРІРѕР№ СЃРѕРІРµСЂС€РёС‚СЉ </line>
+          <line>Р РґРѕРєСѓС‡РЅС‹С…СЉ СѓРґР°Р»СЏСЏ </line>
+          <line>РџРѕР»РЅРѕС‡СЊ РЅР°СЃСЉ РЅРµ СЂР°Р·Р»СѓС‡РёС‚СЉ вЂ“     </line>
+        </zone>
+        <zone ulx="349.67514038085937" uly="876.7611083984375" lrx="349.67514038085937" lry="804.4447021484375">
+          <line>РџРѕСЃР»СЈРґ^  СЃС‚СЂРѕ^  РєСѓРїР»РµС‚СЉ_РѕСЃРѕР±Рѕ </line>
+        </zone>
+      </surface>
+    </surfaceGrp>
+  </sourceDoc>
+</TEI>
