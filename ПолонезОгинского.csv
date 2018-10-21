@@ -1,0 +1,15 @@
+Source,Type,Target,Weight
+ДИМА,Undirected,ДЭВИД,1
+ДИМА,Undirected,ИВАН,6
+ДИМА,Undirected,ЛЮДМИЛА,7
+ДИМА,Undirected,СЕРГЕЙ,2
+ДИМА,Undirected,ТАНЯ,22
+ДЭВИД,Undirected,ЛЮДМИЛА,2
+ДЭВИД,Undirected,СЕРГЕЙ,1
+ДЭВИД,Undirected,ТАНЯ,5
+ИВАН,Undirected,ЛЮДМИЛА,5
+ИВАН,Undirected,СЕРГЕЙ,5
+ИВАН,Undirected,ТАНЯ,9
+ЛЮДМИЛА,Undirected,СЕРГЕЙ,9
+ЛЮДМИЛА,Undirected,ТАНЯ,12
+СЕРГЕЙ,Undirected,ТАНЯ,7
